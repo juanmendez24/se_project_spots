@@ -16,4 +16,6 @@ This site is set to share photo images with others across multiply device displa
 
 This webpage is deployed to GitHub Pages.
 
+-Website video (https://drive.google.com/file/d/1SMrfOXB-YPdmX526_bwWt7_ihNFJhOKR/view?usp=sharing)
+
 -[ Deployment link](https://juanmendez24.github.io/se_project_spots)
